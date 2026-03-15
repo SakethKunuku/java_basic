@@ -1,0 +1,5 @@
+When to use which Loop...?
+
+if we know how many iterations to use , tnen --> FOR LOOP
+if we want to read a file or database, with number of rows/lines not needed initially --> WHILE LOOP
+
